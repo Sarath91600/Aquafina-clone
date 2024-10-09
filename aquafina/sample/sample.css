@@ -1,0 +1,27 @@
+.first{
+    background-color: hsl(172, 89%, 52%);
+    color: aliceblue;
+    border: none;
+    margin-right: 7px;
+    
+}.request{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 71px;
+    font-size: 9px;
+    margin-right: 20px;
+
+}.add{
+    background-color: yellow;
+    color: black;
+    height: 30px;
+    width: 120px;
+    font-size: 12px;
+    border-radius: 28px;
+    border:none;
+    margin-left: 20px;
+}.add:hover{
+    background-color: black;
+    color: yellow;
+}
